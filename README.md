@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'am Reem Hisham 👋
 
-<!--
-**reemhisham32/reemhisham32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Junior DevOps Engineer** passionate about automation, continuous integration,
+and cloud technologies. I have experience in setting up virtualized environments, using Docker,
+and building CI/CD pipelines.
+
+
+- 🌱 I’m currently learning DevOps 
+- 📫 How to reach me: https://www.linkedin.com/in/reem-hisham-a3669424a/
+
+
+
