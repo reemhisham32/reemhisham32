@@ -8,7 +8,9 @@ and building CI/CD pipelines.
 
 
 - 🌱 I’m currently learning DevOps 
-- 📫 How to reach me: https://www.linkedin.com/in/reem-hisham-a3669424a/
+- 📫 How to reach me:
+- rhisham224@gmail.com
+-  https://www.linkedin.com/in/reem-hisham-a3669424a/
 
 
 
